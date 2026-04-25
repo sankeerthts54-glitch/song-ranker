@@ -1,14 +1,3 @@
----
-title: Song Ranker
-emoji: 🎵
-colorFrom: purple
-colorTo: pink
-sdk: streamlit
-sdk_version: "1.44.0"
-app_file: app.py
-pinned: false
----
-
 # 🎵 Song Ranker
 
 An interactive web app that ranks songs from any album using **merge sort** — guaranteeing the minimum number of comparisons possible for accurate rankings.
