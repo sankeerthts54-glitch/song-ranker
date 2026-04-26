@@ -1,3 +1,4 @@
+---
 title: Song Ranker
 emoji: 🎵
 colorFrom: purple
@@ -6,6 +7,9 @@ sdk: streamlit
 sdk_version: "1.43.0"
 app_file: app.py
 pinned: false
+---
+
+# 🎵 Song Ranker
 
 # 🎵 Song Ranker
 
