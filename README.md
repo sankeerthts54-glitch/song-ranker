@@ -22,6 +22,12 @@ pinned: false
 
 ---
 
+## 🚀 Try it Live
+
+[![Hugging Face Space](https://img.shields.io/badge/🤗%20Hugging%20Face-Open%20in%20Space-yellow)](https://huggingface.co/spaces/Vader26/song-ranker)
+
+---
+
 ## ✨ Features
 
 - 🔍 **Live autocomplete** — search artists and albums as you type, powered by the Spotify API
