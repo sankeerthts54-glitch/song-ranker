@@ -1,7 +1,23 @@
-venv/
+# Credentials — never commit these
+.env
+.spotify_token_cache
+
+# Python
 __pycache__/
 *.pyc
-.env
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# OS files
 .DS_Store
-assets/
-*.png
+Thumbs.db

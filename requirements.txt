@@ -1,5 +1,6 @@
 streamlit
 spotipy
-pillow
 python-dotenv
+Pillow
+streamlit-searchbox
 requests
