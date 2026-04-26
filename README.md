@@ -167,10 +167,18 @@ pip freeze > requirements.txt
 
 ## 🤝 Contributing
 
-Pull requests are welcome. For major changes, open an issue first to discuss what you'd like to change.
+Contributions welcome! Feel free to:
+- Report bugs via Issues
+- Suggest features
+- Submit pull requests
+
+## 👤 Author
+
+**Sankeerth TS**
+- GitHub: [@sankeerthts54-glitch](https://github.com/sankeerthts54-glitch)
+- LinkedIn: [sankeerth-ts](https://linkedin.com/in/sankeerth-ts)
+- HuggingFace: [@Vader26](https://huggingface.co/Vader26)
 
 ---
 
-## 📄 License
-
-MIT — feel free to use, modify, and share.
+Built with 🎵 by a CS undergrad in Bangalore exploring algorithms, APIs, and interactive UIs.
