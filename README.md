@@ -1,3 +1,12 @@
+title: Song Ranker
+emoji: 🎵
+colorFrom: purple
+colorTo: pink
+sdk: streamlit
+sdk_version: "1.43.0"
+app_file: app.py
+pinned: false
+
 # 🎵 Song Ranker
 
 > Rank any Spotify album or artist's top songs using head-to-head comparisons — powered by a **Binary Insertion Sort** algorithm for maximum accuracy with minimum clicks.
